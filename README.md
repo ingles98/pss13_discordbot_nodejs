@@ -1,4 +1,7 @@
-# pss13_discordbot
+# pss13_discordbot_nodejs
+This is a legacy version of ingles98/pss13_discordbot back when we were using Node.js.
+We no longer support this.
+---
 
 Needs Node.js.
 
